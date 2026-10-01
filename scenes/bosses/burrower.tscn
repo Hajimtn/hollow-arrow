@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dwghop0nwagfb"]
+
+[ext_resource type="Script" uid="uid://cfaoxe23tb7gw" path="res://scripts/bosses/burrower.gd" id="1"]
+
+[node name="Burrower" type="Node2D" unique_id=197602952]
+script = ExtResource("1")

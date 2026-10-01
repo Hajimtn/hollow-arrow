@@ -1,0 +1,17 @@
+[remap]
+
+importer="font_data_bmfont"
+type="FontFile"
+uid="uid://crangtl2x4ufi"
+path="res://.godot/imported/font_small.fnt-787aee11033267f5ba38f91a31ba4d25.fontdata"
+
+[deps]
+
+source_file="res://assets/ui/font_small.fnt"
+dest_files=["res://.godot/imported/font_small.fnt-787aee11033267f5ba38f91a31ba4d25.fontdata"]
+
+[params]
+
+fallbacks=[]
+compress=true
+scaling_mode=2

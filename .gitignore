@@ -1,0 +1,11 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# build output, editor/OS clutter and scratch files
+/build/
+/.scratch/
+.DS_Store
+
+# third-party source packs (originals are not ours to redistribute; only the derivatives under assets/ ship)
+/assets_src/
